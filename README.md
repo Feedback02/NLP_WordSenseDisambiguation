@@ -9,7 +9,7 @@
 
 <h2>Word Sense Disambiguation Problems</h2>
 
-<h3>Coarse-Grained Word Sense Disambiguation</h3>
+<h3>Coarse-Grained Word Sense Disambiguation (main_coarse.ipynb)</h3>
 
 <p>Coarse-grained WSD deals with the disambiguation of a word among a set of broadly categorized
 homonymy-cluster that are highly distinguishable:
@@ -19,7 +19,7 @@ number of distinct clusters. In this context, the
 task of selecting the appropriate cluster becomes
 less intricate, as the choice is limited to these distinct groups.</p>
 
-<h3>Fine-Grained Word Sense Disambiguation</h3>
+<h3>Fine-Grained Word Sense Disambiguation(main_fine_uses_coarse.ipynb)</h3>
 
 <p>In the fine-grained WSD takes the
 challenge to a deeper level. Here we want to find
